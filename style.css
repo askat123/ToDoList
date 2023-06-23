@@ -1,0 +1,45 @@
+.inp{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    padding: 7px 100px;
+    border-radius: 10px;
+    background: lemonchiffon;
+
+}
+span{
+    color: lemonchiffon;
+}
+.btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: .8s;
+}
+.btn:hover{
+    background: red;
+    color: white;
+}
+center h1{
+    color: lemonchiffon;
+}
+table{
+    border-radius: 20px;
+    background: black;
+    color: lemonchiffon;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+}
+tr{
+    color: lemonchiffon;
+
+}
+th {
+    color: lemonchiffon;
+
+}
+@media  {
+    
+}
